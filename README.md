@@ -1,12 +1,12 @@
 
 # Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px"> thanks for stopping by
 
-### I am ✨ Oti Chinazaekpere Isaac✨,
+### I am ✨ Nwachukwu Goodness✨,
 
-A Creative Front-End Developer with almost 2 years of experience building websites and web apps, collaborative environments. You can also find me on 
-<a href="https://www.linkedin.com/in/chinaza oti/" rel="nofollow noreferrer">
+A Creative Front-End Developer with almost 1 years of experience building websites and web apps, collaborative environments. You can also find me on 
+<a href="https://www.linkedin.com/in/nwachukwu goodness/" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-</a>, +2349018690304, or +2349017126130.
+</a>, +2348132477293, +2349068557284.
 
 ![](https://img.shields.io/badge/code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/tools-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
