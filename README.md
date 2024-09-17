@@ -3,7 +3,7 @@
 
 ### I am ✨ Nwachukwu Goodness✨,
 
-A Creative Front-End Developer with almost 1 years of experience building websites and web apps, collaborative environments. You can also find me on 
+A Creative Front-End Developer with 2 years of experience building websites and web apps, collaborative environments. You can also find me on 
 <a href="https://www.linkedin.com/in/nwachukwu goodness/" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </a>, +2348132477293, +2349068557284.
