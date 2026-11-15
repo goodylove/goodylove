@@ -1,41 +1,78 @@
 
-# Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px"> thanks for stopping by
+# Hey there! 👋 I'm Goodness Nwachukwu
 
-### I am ✨ Nwachukwu Goodness✨,
+### Frontend Engineer | Full-Stack Developer | AI Automation
 
-A Creative Software Developer with 4 years of experience building websites and web apps, collaborative environments. You can also find me on 
-<a href="https://www.linkedin.com/in/nwachukwu goodness/" rel="nofollow noreferrer">
-  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-</a>, +2348132477293, +2349068557284.
+I'm a Software Developer with 4+ years of experience building responsive, scalable web applications and integrating APIs to solve real-world problems.
 
-![](https://img.shields.io/badge/code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/tools-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SASS/SCSS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Tailwind-informational?style=flat&logo=tailwind&logoColor=white&color=2bbc8a)
+I primarily work with **React, Next.js, TypeScript, and Node.js**, and I'm expanding my work into AI-powered applications and business process automation using **n8n and Airtable**.
 
+I enjoy turning complex requirements into practical, user-friendly solutions and building software that solves actual business problems.
 
-## &#x1f4c8; GitHub Stats Overview
-<a href="https://github.com/goodylove">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=goodylove&count_private=true&show_icons=true&theme=dracula" alt="Nwachukwu Goodness" GitHub Stats" />
-</a>
+- 🔭 Currently building practical web applications and AI automation solutions.
+- 🌱 Exploring AI integrations, backend engineering, and workflow automation.
+- 💡 Interested in SaaS products, fintech, and business process automation.
+- 🤝 Open to collaborating on meaningful software projects.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nwachukwu-goodness/).
 
-#
-<a href="https://github.com/goodylove">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodylove&layout=compact&show_icons=true&theme=tokyonight&langs_count=8" />
-</a>
+---
 
+### 🛠️ Tech Stack & Tools
 
-#
-<a href="https://github.com/goodylove">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=goodylove&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
-</a> 
+**Frontend Development**
 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**AI & Workflow Automation**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat&logo=postman&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+Here are some of the projects I've worked on:
+
+- **ReturnLoop** – A customer retention and follow-up platform designed to help small businesses manage repeat customers.
+- **TrackFlow** – An issue-tracking and task management application with role-based access control.
+- **AI Voice Receptionist** – An AI-powered voice assistant built with Retell AI, n8n, and Google services to handle calls and appointment scheduling.
+
+---
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goodylove&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goodylove&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=goodylove&theme=tokyonight&hide_border=true)
+
+---
+
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nwachukwu-goodness/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/goodylove)
