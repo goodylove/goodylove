@@ -1,7 +1,7 @@
-I want to upadet my github profile 
+
 # Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px"> thanks for stopping by
 
-### I am ✨ Nwachukwu Goodness✨,
+### I am  Nwachukwu Goodness✨,
 
 ### AI Full-Stack Engineer | AI Automation Engineer | Problem Solver
 
